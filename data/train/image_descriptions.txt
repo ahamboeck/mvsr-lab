@@ -1,0 +1,10 @@
+image_0.npy,0
+image_1.npy,1
+image_2.npy,0
+image_3.npy,0
+image_4.npy,1
+image_5.npy,0
+image_6.npy,0
+image_7.npy,1
+image_8.npy,0
+image_9.npy,0
