@@ -1,5 +1,5 @@
 resized0_0.npy,0
-resized0_1.npy,0
+resized0_1.npy,1
 resized0_2.npy,0
 resized0_3.npy,1
 resized0_4.npy,0
@@ -7,11 +7,6 @@ resized0_5.npy,0
 resized0_6.npy,1
 resized0_7.npy,0
 resized0_8.npy,0
-resized0_9.npy,1
-resized0_10.npy,0
-resized0_11.npy,0
-resized0_12.npy,0
-resized0_13.npy,0
 resized1_0.npy,0
 resized1_1.npy,1
 resized1_2.npy,0
@@ -20,10 +15,9 @@ resized1_4.npy,0
 resized2_0.npy,0
 resized2_1.npy,0
 resized2_2.npy,0
-resized2_3.npy,0
-resized2_4.npy,1
+resized2_3.npy,1
+resized2_4.npy,0
 resized2_5.npy,0
-resized2_6.npy,0
 resized3_0.npy,0
 resized3_1.npy,0
 resized3_2.npy,0
