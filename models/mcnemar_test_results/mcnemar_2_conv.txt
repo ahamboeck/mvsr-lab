@@ -1,0 +1,2 @@
+McNemar's Test Statistic: 1.3333333333333333
+P-value: 0.24821307898992026
