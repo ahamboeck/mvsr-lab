@@ -1,2 +1,2 @@
-McNemar's Test Statistic: 0.0
-P-value: 1.0
+McNemar's Test Statistic: inf
+P-value: 0.0
